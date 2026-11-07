@@ -16,6 +16,14 @@
       "category": "سينما",
       "download1": "https://github.com/mo7AmMeD64/Nuvio_cinemabox/releases/download/build-10/Nuvio-2.0.7-android.apk",
       "button1": "تحميل"
+    },
+    {
+      "name": "Tizentube",
+      "version": "v 2.0.3",
+      "image": "https://raw.githubusercontent.com/mo7AmMeD64/FREE_APP/main/img/tizen.jpg",
+      "category": "يوتيوب",
+      "download1": "https://github.com/reisxd/TizenTubeCobalt/releases/download/v2.0.3/cobalt-arm.apk",
+      "button1": "تحميل"
     }
   ]
 }
